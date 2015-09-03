@@ -173,5 +173,4 @@ public class Snake extends JTable {
 	public void setRight(boolean right) {
 		this.right = right;
 	}
-	
 }
